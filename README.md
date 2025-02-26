@@ -1,4 +1,3 @@
-# aciam1
 # Andrea Ciamarra
 ### Hello and welcome to my profile!
 I am Andrea Ciamarra, I am an Artificial Intelligence and Computer Vision Researcher at CNIT (National, Inter-University Consortium for Telecommunications), Florence Italy.
