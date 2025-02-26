@@ -13,3 +13,5 @@ At the present, I am working as AI and Computer Vision Researcher at CNIT Consor
 I serve as a reviewer for several international conferences and journals in the fields of computer vision and multimedia. 
 
 I am member of the Italian Association for Computer Vision, Pattern Recognition and Machine Learning (CVPL). 
+
+[![LinkedIn](https://img.shields.io/badge/IEEE-Paper-blue)](www.linkedin.com/in/andrea-ciamarra-aa179976)
