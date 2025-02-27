@@ -1,5 +1,4 @@
-# Andrea Ciamarra
-### Hello and welcome to my profile!
+# Hello and welcome to my profile!
 I am Andrea Ciamarra, I am an Artificial Intelligence and Computer Vision Researcher at [CNIT](https://www.cnit.it/en/) (National, Inter-University Consortium for Telecommunications), Florence Italy.
 
 In 2019 I achieved my Master’s Degree with honors in Computer Engineering at the University of Florence, Italy. In 2020 I joined the Media Integration and Communication Center (MICC).
