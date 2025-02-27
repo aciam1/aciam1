@@ -8,8 +8,8 @@ In 2024 I received the Ph.D degree in Information Engineering (Computer Engineer
 
 I was a Postdoctoral Researcher at Mercatorum University, Rome, Italy, in 2024, focusing on Deepfake detection techniques for images and videos. 
 
-At the present, I am working as AI and Computer Vision Researcher at CNIT Consortium in the field of deep learning, computer vision, multimedia forensics and security, and deepfake detection.
-
 I serve as a reviewer for several international conferences and journals in the fields of computer vision and multimedia.
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-blue)](www.linkedin.com/in/andrea-ciamarra-aa179976) [![Google Scholar](https://img.shields.io/badge/Google-Scholar-orange)]([www.linkedin.com/in/andrea-ciamarra-aa179976](https://scholar.google.com/citations?user=LTrUgeEAAAAJ&hl=en))
+Presently, I am working as AI and Computer Vision Researcher at CNIT Consortium. My research areas include deep learning, computer vision, multimedia forensics and security, and deepfake detection. 
+
+[![LinkedIn](https://img.shields.io/badge/Linkedin-blue)](www.linkedin.com/in/andrea-ciamarra-aa179976) [![Google Scholar](https://img.shields.io/badge/Google-Scholar-orange)]([www.linkedin.com/in/andrea-ciamarra-aa179976](https://scholar.google.com/citations?user=LTrUgeEAAAAJ&hl=en)) ![Google Scholar](https://img.shields.io/badge/Orcid-green)]([https://orcid.org/0000-0001-7053-0830](https://orcid.org/0000-0001-7053-0830))
